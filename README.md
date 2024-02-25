@@ -1,6 +1,6 @@
 # Musify App
 
-Step into the world of Musify, a state-of-the-art music platform crafted using ReactJs and Firebase. Through seamless integration with the Deezer music API, Musify offers an immersive music experience like no other. <br />
+Step into the world of Musify, a state-of-the-art music platform crafted using ReactJs and Firebase. Through seamless integration with the Deezer music API, Musify offers an immersive music experience like no other.  
 Beyond offering an extensive library of songs, Musify elevates your music exploration with its intuitive interface and a plethora of features designed to empower your musical journey.
 
 ## 📃 Table of Contents
